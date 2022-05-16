@@ -1,5 +1,6 @@
 # Bankomatkarten Infos
 
+forked from https://github.com/johnzweng/bankomatinfos
 
 Compiled apk available from: http://johannes.zweng.at/android/Market/BankomatInfos/
 ***
